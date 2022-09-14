@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ankit_kumar
-- 👀 I’m interested in python ,java and other technology such as AI & ML ,flutter, js .
-- 🌱 I’m currently learning Javascript
+- 👀 I’m learning JavaScript and node js to develope backend .
+- 
 - 💞️ I’m looking for to collaborate with developers on real_world projects
 - 📫 How to reach me 
 
