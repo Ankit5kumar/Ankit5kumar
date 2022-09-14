@@ -2,6 +2,8 @@
 - 👀 I’m learning JavaScript and node js to develope backend .
 - Skill:
 - Language: JavaScript [Node JS]
+- Framework: Express JS.
+- Architecture: MVC.
 - Databse:  MySql - Mongodb.
 - ORM:Squelize
 - Auth: JWT
